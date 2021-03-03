@@ -1,0 +1,23 @@
+body{
+   background-color: rgba(0, 0, 255, 0.596); 
+   font: normal 15pt Arial;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;       /* Serve para arredondar as bordas*/
+    padding: 15px;              /*Aumentar o tamanho  */
+    width: 500px;               /*Largura */
+    margin: auto;               /*Centralizar */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.473);
+    font-style: italic;
+    
+}
+footer{
+    font-style: italic;
+    color: white;
+    text-align: center;
+}
